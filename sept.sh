@@ -498,3 +498,7 @@
   498  cd ../ HackBio-Stage-0-Project
   499  history
   500  history > sept.sh
+
+https://blog.piggyvest.com/life/how-chef-amaka-went-from-student-model-to-hospitality-business-owner/
+
+https://github.com/DTijesu/Testing/edit/main/sept.sh
